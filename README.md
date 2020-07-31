@@ -1,6 +1,6 @@
 # Amazon-Reviews-Web-Scraping
 
-Using " Scrapy "
+" Scrapy "
 
 An open source and collaborative framework for extracting the data you need from websites.
 
